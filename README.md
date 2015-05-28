@@ -1,7 +1,3 @@
 # dijkstra.clj
 
-A Clojure app to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+A Clojure implementation of dijkstra to find the shortest path in a directed graph
